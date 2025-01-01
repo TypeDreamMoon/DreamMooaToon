@@ -13,5 +13,15 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "MooaToon",
+			"Enabled": true
+		},
+		{
+			"Name": "VRM4U",
+			"Enabled": true
+		}
+	]
 }
